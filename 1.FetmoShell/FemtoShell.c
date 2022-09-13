@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <string.h>
 
+#define MAX_LENGTH              100
+
 void main(void)
 {
-	char str[30] = {0};
+	char str[MAX_LENGTH] = {0};
 	while(1)
 	{
 		printf("Enter your words: ");
