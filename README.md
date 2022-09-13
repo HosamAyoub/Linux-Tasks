@@ -1,2 +1,4 @@
-# Linux Tasks
+# Linux Tasks  
+## Femto Shell
+* Compile: `gcc` FemtoShell.c -o FemtoShell
  
